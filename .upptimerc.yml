@@ -9,9 +9,9 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: showneykim.github.io
   baseUrl: /uwufufu_upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://uwufufu.com/_nuxt/img/26189d1.svg
   name: Upptime
   introTitle: "**Upptime** for Gwabba "
   introMessage: Gwabba의 서비스들의 현재 상태입니다. GitHub Actions 를 이용한 Upptime 으로 운영되고 있습니다.
